@@ -1,4 +1,4 @@
-# **Yield Prediction using SAR with Patch-Based 3D-CNN and ML Methods
+# Yield Prediction using SAR with Patch-Based 3D-CNN and ML Methods
 
 Overview
 
